@@ -1,0 +1,8 @@
+.viewBtn{
+    border:  none;
+    background-color: goldenrod;
+    cursor: pointer;
+    height: 30px;
+    width: 50px;
+    border-radius: 4px;
+}

@@ -1,0 +1,10 @@
+.addbtn{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(153, 212, 153);
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 10px white;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.main{
+    background-color: rgb(47, 84, 105);
+    height: 80px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    color: white;
+    
+}
