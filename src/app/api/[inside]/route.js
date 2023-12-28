@@ -3,6 +3,7 @@ import { SchemaData } from "@/lib/ScemaData/SchemaData";
 import { connectionStr } from "@/lib/db";
 import mongoose from "mongoose";
 import { NextResponse } from "next/server";
+import { Data } from "@/lib/data/Data";
 
 export async function GET(request,content){
     let Id = content.params.inside;
@@ -42,4 +43,4 @@ export async function DELETE(request,content){
     }
 
 
-}
+}// Return a list of `params` to populate the [slug] dynamic segment
