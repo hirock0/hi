@@ -7,7 +7,7 @@ export default function Navbar(){
             <SearchEngineHeader/>
             <div>
                 <Image
-                    src={"/bd-logo.png"}
+                    src={"./bd-logo.png"}
                     width={40}
                     height={40}
                     alt='bdlogo'
